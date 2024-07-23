@@ -1,3 +1,5 @@
+                        #IQ SCORES TEST RESULTS FOR A GROUP OF 100 ADULTS
+
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np

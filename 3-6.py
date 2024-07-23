@@ -1,3 +1,5 @@
+                        #SCATTER PLOT WITH MARGINAL HISTOGRAMS
+
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
@@ -7,7 +9,7 @@ import pandas as pd
 matplotlib.use('TkAgg')
 
 # Load dataset
-data = pd.read_csv('c:/Users/Aashitha/Downloads/Datasets/Datasets/images/anage_data.csv')
+data = pd.read_csv('c:/Users/Aashitha/Downloads/Datasets/Datasets/anage_data.csv')
 
 # Preprocessing
 longevity = 'Maximum longevity (yrs)'

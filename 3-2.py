@@ -1,3 +1,5 @@
+                                #MOVIE COMPARISON(DOUBLE BAR-GRAPH)
+
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
